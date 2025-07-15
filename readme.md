@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a full stack developer with 3+ years of professional experience and have been coding for fun since 2020. I usually use TypeScript with Next.js/React on the frontend and Node.js on the backend, but I'm not restricted to these technologies.
+I am a full stack developer with 3+ years of professional experience and have been coding for fun since 2020. I usually use TypeScript with Next.js/React on the frontend and Node.js with Express.js or Nest.js on the backend, but I'm not restricted to these technologies.
 
 I enjoy learning about many topics in software development, but I have other hobbies too.
 
