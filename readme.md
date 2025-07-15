@@ -7,7 +7,6 @@ I am a full stack developer with 3+ years of professional experience and have be
 I enjoy learning about many topics in software development, but I have other hobbies too.
 
 - 🌍  I'm based in Paraná - Brazil
-- ✉️  You can contact me at https://www.linkedin.com/in/joaofagotti/
 - 🧠  I'm learning more about backend topics and how to become a fluent English speaker
 
 ## Usually I code with
@@ -22,7 +21,7 @@ I enjoy learning about many topics in software development, but I have other hob
 </a>
 </p>
 
-## Socials
+## Contact me on LinkedIn
 
 <p align="left">  <a href="https://www.linkedin.com/in/joaofagotti" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
