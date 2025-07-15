@@ -1,4 +1,4 @@
-# Hello World 👋 My name is João Fagotti
+# João Fagotti
 
 ## Full Stack Developer
 
