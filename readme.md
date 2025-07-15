@@ -10,7 +10,7 @@ I enjoy learning about many topics in software development, but I have other hob
 - ✉️  You can contact me at [joaofagotti@gmail.com](mailto:joaofagotti@gmail.com)
 - 🧠  I'm learning more about backend topics and how to become a fluent English speaker
 
-## I usually code with
+## Usually I code with
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a>
