@@ -1,4 +1,4 @@
-# Hello World I'm João Fagotti
+# I'm João Fagotti
 
 ## About me
 
