@@ -21,10 +21,6 @@ I enjoy learning about many topics in software development, but I have other hob
 </a>
 </p>
 
-## Contact me on LinkedIn
-
-<p align="left">  <a href="https://www.linkedin.com/in/joaofagotti" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-
 ## My Github Stats
 
 <a href="http://www.github.com/joaovlf">
