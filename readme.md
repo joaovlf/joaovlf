@@ -1,6 +1,6 @@
-## Hello World I'm João Fagotti
+# Hello World I'm João Fagotti
 
-### Full Stack Developer
+## About me
 
 I am a full stack developer with 3+ years of professional experience and have been coding for fun since 2020. I usually use TypeScript with Next.js/React on the frontend and Node.js on the backend, but I'm not restricted to these technologies.
 
@@ -10,7 +10,7 @@ I enjoy learning about many topics in software development, but I have other hob
 - ✉️  You can contact me at [joaofagotti@gmail.com](mailto:joaofagotti@gmail.com)
 - 🧠  I'm learning more about backend topics and how to become a fluent English speaker
 
-### I usually code with
+## I usually code with
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a>
@@ -22,9 +22,7 @@ I enjoy learning about many topics in software development, but I have other hob
 </a>
                     </p>
 
----
-
-### Stats
+## Stats
 
 <a href="http://www.github.com/joaovlf">
 <img src="https://github-readme-stats.vercel.app/api?username=joaovlf&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="joaovlf's GitHub stats" />
