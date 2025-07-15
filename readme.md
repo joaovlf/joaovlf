@@ -1,5 +1,3 @@
-  <img align="left" title="Nest Js" alt="Nest Js" width="120px" src="./assets/gifdaora.gif" />
-
 <h1> Hello World</h1>
 
 <p> My name is João Fagotti and I'm a Typescript and Javascript developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Paraná, Brazil</b>. </p>
