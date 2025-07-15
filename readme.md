@@ -1,30 +1,44 @@
-<h1> Hello World</h1>
+# Hello World 👋 My name is João Fagotti
 
-<p> My name is João Fagotti and I'm a Typescript and Javascript developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Paraná, Brazil</b>. </p>
+## Full Stack Developer
 
-## About me
+I am a full stack developer with 3+ years of professional experience and have been coding for fun since 2020. I usually use TypeScript with Next.js/React on the frontend and Node.js on the backend, but I'm not restricted to these technologies.
 
-- ✨ I am a full stack developer with 3+ years of practice and I 've been codign for fun and professionally since 2020
-- 📚 I'm currently learning English <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" /> and improving myself em many other areas of software development
+I enjoy learning about many topics in software development, but I have other hobbies too.
 
-## Usually I code with
+- 🌍  I'm based in Paraná - Brazil
+- ✉️  You can contact me at [joaofagotti@gmail.com](mailto:joaofagotti@gmail.com)
+- 🧠  I'm learning more about backend topics and how to become a fluent English speaker
 
-<a href="https://www.typescriptlang.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
-</a>
+### Skills
 
-<a href="https://pt-br.reactjs.org" target="_blank">
- <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
-</a>
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" title="NestJS"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a>
+                    </p>
+                    
+### Socials
+                  
+                  
+<p align="left">
+                      <a href="https://www.github.com/joaovlf" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/joaofagotti" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+                    </picture>
+                    </a></p>
 
-<a href="https://tailwindcss.com" target="_blank">
- <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tailwind-logo.svg" />
-</a>
+### Badges
 
-<a href="https://nextjs.org" target="_blank">
-  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
-</a>
-
-<a href="https://nestjs.com" target="_blank">
-  <img align="left" title="Nest Js" alt="Nest Js" width="40px" src="./assets/nest-logo.svg" />
-</a>
+<b>My GitHub Stats
+</b><a
+                      href="http://www.github.com/joaovlf"><img src="https://github-readme-stats.vercel.app/api?username=joaovlf&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="joaovlf's GitHub stats" /></a><a
+                      href="http://www.github.com/joaovlf"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=joaovlf&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/joaovlf" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovlf&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
