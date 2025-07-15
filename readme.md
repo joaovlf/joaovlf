@@ -24,8 +24,6 @@ I enjoy learning about many topics in software development, but I have other hob
 </a>
                     </p>
 
----
-
 ### Socials
 
 <p align="left">
